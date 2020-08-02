@@ -7,3 +7,7 @@ merge test.
 DateTime:  21:33
 
 This is learngit and datetime : 2020/08/02 16:04
+
+This is learngit2 edit , datetime: 2020/08/02 16:00
+
+Then this is OK. DateTime: 2020/08/02 16:11
